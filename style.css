@@ -1,0 +1,13 @@
+body{
+    background-color: dodgerblue;
+}
+#note, #youtube{
+    text-decoration: none;
+}
+#note:hover, #youtube:hover{
+    color:aliceblue;
+}
+
+#note:visited{
+    color: black;
+}
